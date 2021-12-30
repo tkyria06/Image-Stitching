@@ -35,3 +35,6 @@ Theodoros Kyriakou
 
 Input Images        
 <img src="Results/Original_Images.png">
+
+Panorama        
+<img src="Results/Image_Stitching.png">
