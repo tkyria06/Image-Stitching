@@ -34,4 +34,4 @@ Theodoros Kyriakou
 ## Results
 
 Input Images        
-<img src="Results/Original_Images.png" width="550" height="340"> 
+<img src="Results/Original_Images.png">
